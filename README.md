@@ -21,12 +21,15 @@
 
 ---
 
-### Certifications:
-- ✅ AWS Cloud Practitioner
-- 🎯 In Progress: AZ-900, AI-900, AWS SAA
-- 🎓 Grad Cert in Cybersecurity (Distinction) – Deakin
-- 🎓 Grad Cert in Adult Education – Deakin
-- 📈 CFA, FRM, CAIA (Finance Background)
+### 📜 Certifications & Academic Qualifications
+
+- 🎓 Graduate Certificate in Cybersecurity (Distinction) – Deakin University
+- 🎓 Graduate Certificate in Adult Learning – Deakin University
+- ✅ AWS Cloud Practitioner (CCP)
+- ✅ AWS Certified AI Practitioner
+- 🎯 In Progress: Microsoft AZ-900, AI-900
+- 🧠 Currently studying: Graduate Certificate in Artificial Intelligence (Deakin)
+
 
 ---
 
